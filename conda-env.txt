@@ -1,0 +1,16 @@
+conda create -n tensorflow
+
+conda activate tensorflow
+
+conda env list
+
+conda activate base - come to base
+
+conda install tensorflow
+
+conda install keras
+
+conda install nb_conda
+
+import tensorflow as tf
+from tensorflow import keras

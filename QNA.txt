@@ -1,0 +1,12 @@
+1. types of data set ; like csv / json , etc
+
+2. Data cleaning , Normalization , data minig
+
+3. Handling missing data (like NaN)
+      - delete the record which have missing values
+      - create a separate model to handle the missing values
+      - statistical methods like mean,media and mode
+
+3. stpes from getting data to final model
+
+4. How to choosed to go with supervised / unsupervised
