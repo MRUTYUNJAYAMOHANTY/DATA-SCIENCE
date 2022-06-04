@@ -1,0 +1,17 @@
+1. DATA ANALYSIS
+        - Numpy
+        - Pandas
+
+2. DATA VISUALIZATION
+        - Matplotlib
+        - seaborn
+        - panda built-in data visualization
+        - plotly and cufflinks 
+
+3. DATA VISUALIZATION FOR GEOGRAPHICAL PLOTTING (MAP)
+        - Choropleth maps
+
+4. DATA CAPSTONE
+ 
+
+ 
