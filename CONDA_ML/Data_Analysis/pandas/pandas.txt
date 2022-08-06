@@ -1,0 +1,9 @@
+
+conda install pandas
+
+. Opensource library built on top of numpy
+. Allows for fast analysis,data cleaning and preparation
+. excels performance and productivity
+. built-in visualization features
+. can work with data from a wide variety of sources
+. conda install pandas
