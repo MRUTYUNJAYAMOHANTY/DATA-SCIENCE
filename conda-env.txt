@@ -12,5 +12,8 @@ conda install keras
 
 conda install nb_conda
 
+conda env remove -n ENV_NAME
+
+
 import tensorflow as tf
 from tensorflow import keras
