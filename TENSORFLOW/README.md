@@ -2,11 +2,12 @@
 All about TensorFlow models 
 IDE : GOOGLE COLAB
 
-* Inputs(any type/form) > Numerical encoding(matrix/tensor) [[112,223],..]
-                        > Learns representation/choose appropriate neural network (patterns/  
-                          features/weights)
-                        > representational outputs [[0.983,0.004],..]
-                        > human understandable outputs
+* STEPS : 
+   * Inputs(any type/form)  
+   * Numerical encoding(matrix/tensor) [[112,223],..]
+   * Learns representation/choose appropriate neural network (patterns/features/weights)
+   * representational outputs [[0.983,0.004],..]
+   * human understandable outputs
 
 * Types of Learning:
        * supervised
