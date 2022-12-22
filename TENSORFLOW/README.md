@@ -1,6 +1,6 @@
 # Tensorflow
-All about TensorFlow models 
-IDE : GOOGLE COLAB
+ All about TensorFlow models 
+ IDE : GOOGLE COLAB
 
 * STEPS : 
    * Inputs(any type/form)  
