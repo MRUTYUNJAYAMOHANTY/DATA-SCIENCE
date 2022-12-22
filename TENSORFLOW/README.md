@@ -9,27 +9,27 @@ IDE : GOOGLE COLAB
                         > human understandable outputs
 
 * Types of Learning:
-       > supervised
+       * supervised
            - data and labels are available
-       > semi-supervised
+       * semi-supervised
            - some data and some lables
-       > unsupervised
+       * unsupervised
            - only data, no labels
            - can't pass data to ML model,neural network or deep learning model
            - not sure about the patterns with this type of data
-       > transfer learning
+       * transfer learning
            - learned patters of one deep learning model can be used in another deep learning model
            - food,image discovery / classification model
 
  * Some deep learning examples: 
-       > Recommendation - uses history
-       > Translation,Speech recognition - uses sequence to sequence(seq2seq)
-       > computer vision - classification/regression
-       > Natural language processing (email check, spam/not sapm) - classification/regression
+       * Recommendation - uses history
+       * Translation,Speech recognition - uses sequence to sequence(seq2seq)
+       * computer vision - classification/regression
+       * Natural language processing (email check, spam/not sapm) - classification/regression
 
 * Tensorflow :
-    GPU - Graphics processing unit
-    TPU - Tensor processing unit
+     * GPU - Graphics processing unit
+     * TPU - Tensor processing unit
 
 * LINKS
   
